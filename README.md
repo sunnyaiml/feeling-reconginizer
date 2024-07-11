@@ -47,7 +47,7 @@ After starting the app, you can enter sentences like:
    ```bash
     I feel happy today.
     I'm angry at work.
-    ```
+   ```
 
 
 Click on **"Analyze Emotion"** to see the results:
@@ -63,7 +63,7 @@ Click on **"Analyze Emotion"** to see the results:
     Emotion Explanation: You are expressing anger or frustration.
     Sentiment Score: 0.89
     Sentiment Explanation: The sentiment is very negative.
-    ```
+   ```
 
 ## File Overview
 
