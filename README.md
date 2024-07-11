@@ -32,24 +32,24 @@ streamlit run emotion.py
 
 This will start the Streamlit server, and you can access the web application in your browser at `http://localhost:8501`.
 
-How to Use>>>
+How to Use
 
 1. Enter Text: In the text area provided on the main page, enter one or more sentences, each on a new line.
 2. Analyze Emotion: Click the "Analyze Emotion" button to perform emotion detection and sentiment analysis on the entered text.
 3. View Results: The analysis results will be displayed below, showing the detected emotion labels, their explanations, sentiment scores, and sentiment explanations.
 
-Example>>>
+Example
 
 After starting the app, you can enter sentences like:
 
-CSS>>
+CSS
 
 I feel happy today.
 I'm angry at work.
 
 Click on "Analyze Emotion" to see the results:
 
-yaml>>
+yaml
 
 Emotion Label: joy
 Emotion Explanation: You are feeling joyful and happy.
@@ -60,24 +60,24 @@ Emotion Explanation: You are expressing anger or frustration.
 Sentiment Score: 0.89
 Sentiment Explanation: The sentiment is very negative.
 
-File Overview>>
+File Overview
 
 * `emotion.py: This is the main script for running the Streamlit application.
 * `requirements.txt': This file lists the required Python packages.
 
-Contributing>>
+Contributing
 
 I welcome contributions! If you have any suggestions or find any issues, please feel free to open an issue or submit a pull request.
 
-License>>
+License
 
 This project is licensed under the MIT License.
 
-Acknowledgements>>
+Acknowledgements
 
 Hugging Face Transformers: Hugging Face
 Streamlit: Streamlit
 
-sql>>
+sql
 
 Feel free to personalize it further or make any adjustments that you see fit!
