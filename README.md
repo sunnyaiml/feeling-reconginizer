@@ -42,7 +42,7 @@ This will start the Streamlit server, and you can access the web application in 
 
 After starting the app, you can enter sentences like:
 
-CSS
+## CSS
 '''bash
 I feel happy today.
 I'm angry at work.
