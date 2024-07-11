@@ -43,24 +43,27 @@ This will start the Streamlit server, and you can access the web application in 
 After starting the app, you can enter sentences like:
 
 ## CSS
-'''bash
-I feel happy today.
-I'm angry at work.
-'''
+
+   ```bash
+    I feel happy today.
+    I'm angry at work.
+    ```
+
 
 Click on **"Analyze Emotion"** to see the results:
 
 ## yaml
-'''bash
-Emotion Label: joy
-Emotion Explanation: You are feeling joyful and happy.
-Sentiment Score: 0.95
-Sentiment Explanation: The sentiment is very positive.
-Emotion Label: anger
-Emotion Explanation: You are expressing anger or frustration.
-Sentiment Score: 0.89
-Sentiment Explanation: The sentiment is very negative.
-'''
+
+   ```bash
+    Emotion Label: joy
+    Emotion Explanation: You are feeling joyful and happy.
+    Sentiment Score: 0.95
+    Sentiment Explanation: The sentiment is very positive.
+    Emotion Label: anger
+    Emotion Explanation: You are expressing anger or frustration.
+    Sentiment Score: 0.89
+    Sentiment Explanation: The sentiment is very negative.
+    ```
 
 ## File Overview
 
